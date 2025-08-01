@@ -273,7 +273,7 @@ await XeonBotInc.sendMessage(botNumber, {
             await delay(1999)
             console.log(chalk.yellow(`\n\n                  ${chalk.bold.blue(`[ ${global.botname || '𝐉𝐅𝐗 𝐌𝐃-𝐗'} ]`)}\n\n`))
             console.log(chalk.cyan(`< ================================================== >`))
-            console.log(chalk.magenta(`\n${global.themeemoji || '•'} YT CHANNEL: https://youtube.com/@JEPHTERTECH`))
+            console.log(chalk.magenta(`\n${global.themeemoji || '•'} YT CHANNEL:https://youtube.com/@jephtertech?si=LOmrP6AFCjvA5gDp`))
             console.log(chalk.magenta(`${global.themeemoji || '•'} GITHUB: ᴊᴇᴘʜᴛᴇʀ ᴛᴇᴄʜ`))
             console.log(chalk.magenta(`${global.themeemoji || '•'} WA NUMBER: ${owner}`))
             console.log(chalk.magenta(`${global.themeemoji || '•'} CREDIT: ᴊᴇᴘʜᴛᴇʀ ᴛᴇᴄʜ`))
